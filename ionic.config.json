@@ -1,5 +1,7 @@
 {
   "name": "demo-licen-check",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
